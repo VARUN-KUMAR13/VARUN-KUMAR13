@@ -20,10 +20,10 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me:
   - Discord:- kvk._.13_98475
   - Email:- kvaruntej13@gmail.com
-  - Linkedin:- 
+  - Linkedin:- https://www.linkedin.com/in/katakam-varun-kumar-445921300
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
-- 🔭 I’m currently working on [project on CyberSecurity and Blockchain](yet to add)
+- 🔭 I’m currently working on [project on Developing Website and Backend](yet to add)
 
 - 🌱 I’m currently learning **Frameworks of js**
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **jashwanthrgp@gmail.com**
+- 📫 How to reach me **kvaruntej13@gmail.com**
 
 - 📄 Know about my experiences [yet to add](yet to add)
 
