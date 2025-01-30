@@ -18,12 +18,12 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Webdev
 - 📫 How to reach me:
-  - Discord:- kvk._.13_98475
+  - Discord:- varun_kumar13
   - Email:- kvaruntej13@gmail.com
   - Linkedin:- https://www.linkedin.com/in/katakam-varun-kumar-445921300
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
-- 🔭 I’m currently working on [project on Developing Website and Backend](yet to add)
+- 🔭 I’m currently working on Developing Event Management App Using Flutter
 
 - 🌱 I’m currently learning **Frameworks of js**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started: -->
 
 - 🤝 I’m looking for help with [yet to go](yet to add)
 
-- 👨‍💻 All of my projects are available at [yet to add](yet to add)
+- 👨‍💻 All of my projects are available at Github Repository 
 
 - 📝 I regularly write articles on [yet to add](yet to add)
 
