@@ -42,7 +42,7 @@ Here are some ideas to get you started: -->
 - 📄 Know about my experiences [yet to add](yet to add)
 
 - ⚡ Fun fact **Not so patience😉**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/Varun-Tej-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pair-mac" height="30" width="40" /></a>
@@ -64,8 +64,9 @@ Here are some ideas to get you started: -->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/kvaruntej1q"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a " /></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-kumar13&show_icons=true&locale=en&layout=compact" alt="jashwanth-reddy9" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-kumar13&show_icons=true&locale=en&layout=compact" alt="varun-kumar13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-kumar13&show_icons=true&locale=en" alt="jashwanth-reddy9" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-kumar13&show_icons=true&locale=en" alt="varun-kumar13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-kumar13&" alt="jashwanth-reddy9" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-kumar13&" alt="varun-kumar13" /></p>
+-->
